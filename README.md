@@ -1,6 +1,6 @@
 # imageHeapsort
 * Uses heapsort algorithm to sort image pixels.
-* Made in VS, C#.
+* Made with VS, C#.
 * Can be used to sort image with internal and external memory.
 ## General
 
